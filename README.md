@@ -9,12 +9,12 @@ todo
 
 ### Paper
 
-You can view the supplemental material [here].
+You can view the supplemental material [here] (link soon).
 
 
 ### Code and Extras
 
-You can find additional resources on [Github]. Includes:  
+You can find additional resources on [Github]. (Coming Soon) Includes:  
   
 
 -   The  Benchmark
