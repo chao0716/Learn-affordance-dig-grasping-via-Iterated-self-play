@@ -9,12 +9,12 @@ todo
 
 ### Paper
 
-You can view the supplemental material [here](https://form2fit.github.io/supplemental.pdf).
+You can view the supplemental material [here].
 
 
 ### Code and Extras
 
-You can find additional resources on [Github](https://github.com/kevinzakka/form2fit). Includes:  
+You can find additional resources on [Github]. Includes:  
   
 
 -   The  Benchmark
